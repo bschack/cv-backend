@@ -4,8 +4,11 @@ import { cors } from 'hono/cors';
 
 const app = new Hono()
 
-// enable CORS
-app.use(cors())
+app.use('/*', cors({
+  origin: ['http://localhost:4200', 'https://cv.benschack.com'],
+  allowMethods: ['GET'],
+  allowHeaders: ['Content-Type'],
+}))
 
 app.get('/', (c) => {
   return c.json(data)
