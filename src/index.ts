@@ -2,13 +2,20 @@ import { Hono } from 'hono'
 import data from "../data/cv-data.json" with { type: "json" };
 import { cors } from 'hono/cors';
 
-const app = new Hono()
+type Bindings = {
+  FRONTEND_URL: string
+  ENVIRONMENT: string
+}
 
-app.use('/*', cors({
-  origin: ['http://localhost:4200', 'https://cv.benschack.com'],
-  allowMethods: ['GET'],
-  allowHeaders: ['Content-Type'],
-}))
+const app = new Hono<{ Bindings: Bindings }>()
+
+app.use('/*', (c, next) => {
+  return cors({
+    origin: [c.env.FRONTEND_URL],
+    allowMethods: ['GET'],
+    allowHeaders: ['Content-Type'],
+  })(c, next)
+})
 
 app.get('/', (c) => {
   return c.json(data)
