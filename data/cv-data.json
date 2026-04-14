@@ -1,0 +1,276 @@
+{
+  "personal_details": {
+    "section_name": null,
+    "data": {
+      "name": "Ben Schack",
+      "email": "bschack@pm.me",
+      "phone": "2012801195",
+      "linkedin": "linkedin.com/in/ben-schack",
+      "github": "github.com/bschack"
+    }
+  },
+  "summary": {
+    "section_name": "Professional Summary",
+    "data": {
+      "summary": "I graduated from Lehigh University with a BS in Computer Science, focusing on machine learning and logical reasoning systems. My research focused on improving learning-based approaches for reasoning tasks, resulting in a publication as lead author and presentation at an international conference. I have additional experience developing production software systems in collaborative engineering environments. I am a contingent hire at BasisPath who recently secured TS through the pipeline."
+    }
+  },
+  "professional_skills": {
+    "languages": {
+      "section_name": "Programming Languages",
+      "data": [
+        {
+          "language": "Python",
+          "proficiency": "Proficient"
+        },
+        {
+          "language": "HTML/CSS",
+          "proficiency": "Proficient"
+        },
+        {
+          "language": "JavaScript (TypeScript)",
+          "proficiency": "Proficient"
+        },
+        {
+          "language": "C++",
+          "proficiency": "Familiar"
+        },
+        {
+          "language": "SQL",
+          "proficiency": "Familiar"
+        },
+        {
+          "language": "Java",
+          "proficiency": "Familiar"
+        },
+        {
+          "language": "C",
+          "proficiency": "Familiar"
+        }
+      ]
+    },
+    "frameworks": {
+      "section_name": "Frameworks and Tools",
+      "data": [
+        {
+          "tool": "Visual Studio Code",
+          "proficiency": "Proficient"
+        },
+        {
+          "tool": "Git",
+          "proficiency": "Proficient"
+        },
+        {
+          "tool": "Docker",
+          "proficiency": "Proficient"
+        },
+        {
+          "tool": "Google Cloud",
+          "proficiency": "Familiar"
+        },
+        {
+          "tool": "Linux",
+          "proficiency": "Familiar"
+        },
+        {
+          "tool": "React.js",
+          "proficiency": "Proficient"
+        },
+        {
+          "tool": "Node.js",
+          "proficiency": "Proficient"
+        },
+        {
+          "tool": "NumPy",
+          "proficiency": "Proficient"
+        },
+        {
+          "tool": "JSON",
+          "proficiency": "Proficient"
+        },
+        {
+          "tool": "REST APIs",
+          "proficiency": "Proficient"
+        },
+        {
+          "tool": "Next.js",
+          "proficiency": "Familiar"
+        },
+        {
+          "tool": "PyTorch",
+          "proficiency": "Familiar"
+        },
+        {
+          "tool": "Postgres",
+          "proficiency": "Familiar"
+        }
+      ]
+    }
+  },
+  "professional_experience": {
+    "section_name": "Professional Experience",
+    "data": [
+      {
+        "company": "Endaoment",
+        "position": "Full-Stack Engineer",
+        "level": "Senior Paid Intern",
+        "location": "New York, NY",
+        "dates": {
+          "type": "multiple",
+          "ranges": [
+            {
+              "start": "January 2022",
+              "end": "August 2022"
+            },
+            {
+              "start": "May 2023",
+              "end": "August 2023"
+            }
+          ]
+        },
+        "highlights": [
+          "Resolved software bugs with full-stack solutions, enhancing efficiency and user interfaces using React.js and Next.js.",
+          "Built on-chain features with Blockchain ABIs, Solidity, and ENS integration; developed backend with Node.js, REST APIs, and Docker.",
+          "Facilitated daily engineering standup meetings and weekly team retrospectives."
+        ]
+      },
+      {
+        "company": "Endaoment",
+        "position": "Front-End Web Engineer",
+        "level": "Paid Intern",
+        "location": "New York, NY",
+        "dates": {
+          "type": "range",
+          "start": "May 2021",
+          "end": "August 2021"
+        },
+        "highlights": [
+          "Collaborated with engineering teams to develop a web app while gaining experience in web development workflows and best practices, including Git.",
+          "Participated in an off-site company summit with senior and executive-level leadership."
+        ]
+      },
+      {
+        "company": "Lehigh University",
+        "position": "Research Student",
+        "level": null,
+        "location": "Bethlehem, PA",
+        "dates": {
+          "type": "range",
+          "start": "August 2023",
+          "end": "August 2024"
+        },
+        "highlights": [
+          "Developed machine learning models for efficient logical reasoning using Python, PyTorch, and NumPy, optimizing training and testing processes.",
+          "Converted OWL ontologies to Datalog format and implemented a dynamic training stop mechanism based on loss curves.",
+          "Published research as first and co-author, presented at the International Joint Conference on Rules and Reasoning."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "section_name": "Education",
+    "data": [
+      {
+        "institution": "Lehigh University, P .C. Rossin College of Engineering & Applied Science",
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "location": "Bethlehem, PA",
+        "major_gpa": "3.45",
+        "dates": {
+          "type": "range",
+          "start": "August 2021",
+          "end": "May 2024"
+        },
+        "highlights": [
+          "Top Recognition, Google Hackathon",
+          "Dean's List"
+        ]
+      }
+    ]
+  },
+  "certifications": {
+    "section_name": "Certifications",
+    "data": [
+      {
+        "name": "Certified Scrum Master (CSM)",
+        "organization": "Scrum Alliance",
+        "url": "https://bcert.me/skiccvygv",
+        "dates": {
+          "type": "single",
+          "start": "February 2026"
+        }
+      }
+    ]
+  },
+  "projects": {
+    "section_name": "Technical Projects",
+    "data": [
+      {
+        "name": "Capstone Project",
+        "organizations": [
+          "Lehigh University",
+          "Lutron"
+        ],
+        "dates": {
+          "type": "range",
+          "start": "Spring 2023",
+          "end": "Fall 2023"
+        },
+        "highlights": [
+          "Led a team to design and implement a full-stack web app, overcoming restricted code access to deliver a responsive, multi-device UI/UX using React.js, Node.js, and MongoDB.",
+          "Achieved seamless real-time data handling and testing integration while adhering to sponsor requirements in a challenging environment."
+        ]
+      }
+    ]
+  },
+  "awards": {
+    "section_name": "Awards & Achievements",
+    "data": [
+      {
+        "name": "Best Use of a Google Product",
+        "organization": "Lehigh Hacks for Change",
+        "url": "https://devpost.com/software/eat-neat",
+        "dates": {
+          "type": "single",
+          "start": "April 2023"
+        },
+        "highlights": [
+          "Created a mobile application that allows users to either take a photo of their food, a nutrition label, or paste a recipe in and receive a grade on how sustainably they are eating leveraging Google Cloud Vision and Flutter."
+        ]
+      }
+    ]
+  },
+  "publications": {
+    "section_name": "Publications",
+    "data": [
+      {
+        "name": "Query Optimization of Backward-Chaining Reasoning with Learned Heuristics",
+        "authors": "Schack, B., et al.",
+        "venue": "Proceedings of the Rule Challenge, Doctoral Consortium, Industry Track, and Networking Session 2024",
+        "url": "https://ceur-ws.org/Vol-3816/paper21.pdf",
+        "dates": {
+          "type": "single",
+          "start": "2024"
+        }
+      }
+    ]
+  },
+  "community": {
+    "section_name": "Community Involvement & Interests",
+    "data": [
+      {
+        "name": "Lehigh Cybersecurity Club",
+        "role": "Founder & Co-President",
+        "dates": {
+          "type": "range",
+          "start": "Spring 2022",
+          "end": "Fall 2024"
+        },
+        "highlights": [
+          "Facilitated board meetings, created presentations, and educated students on cybersecurity topics like web exploitation, password cracking, and Linux basics.",
+          "Coordinated club meetings with guest security professionals."
+        ]
+      }
+    ]
+  }
+}
