@@ -15,98 +15,98 @@
       "summary": "I graduated from Lehigh University with a BS in Computer Science, focusing on machine learning and logical reasoning systems. My research focused on improving learning-based approaches for reasoning tasks, resulting in a publication as lead author and presentation at an international conference. I have additional experience developing production software systems in collaborative engineering environments. I am a contingent hire at BasisPath who recently secured TS through the pipeline."
     }
   },
-  "professional_skills": {
-    "languages": {
+  "professional_skills": [
+    {
       "section_name": "Programming Languages",
       "data": [
         {
-          "language": "Python",
+          "item": "Python",
           "proficiency": "Proficient"
         },
         {
-          "language": "HTML/CSS",
+          "item": "HTML/CSS",
           "proficiency": "Proficient"
         },
         {
-          "language": "JavaScript (TypeScript)",
+          "item": "JavaScript (TypeScript)",
           "proficiency": "Proficient"
         },
         {
-          "language": "C++",
+          "item": "C++",
           "proficiency": "Familiar"
         },
         {
-          "language": "SQL",
+          "item": "SQL",
           "proficiency": "Familiar"
         },
         {
-          "language": "Java",
+          "item": "Java",
           "proficiency": "Familiar"
         },
         {
-          "language": "C",
+          "item": "C",
           "proficiency": "Familiar"
         }
       ]
     },
-    "frameworks": {
+    {
       "section_name": "Frameworks and Tools",
       "data": [
         {
-          "tool": "Visual Studio Code",
+          "item": "Visual Studio Code",
           "proficiency": "Proficient"
         },
         {
-          "tool": "Git",
+          "item": "Git",
           "proficiency": "Proficient"
         },
         {
-          "tool": "Docker",
+          "item": "Docker",
           "proficiency": "Proficient"
         },
         {
-          "tool": "Google Cloud",
+          "item": "Google Cloud",
           "proficiency": "Familiar"
         },
         {
-          "tool": "Linux",
+          "item": "Linux",
           "proficiency": "Familiar"
         },
         {
-          "tool": "React.js",
+          "item": "React.js",
           "proficiency": "Proficient"
         },
         {
-          "tool": "Node.js",
+          "item": "Node.js",
           "proficiency": "Proficient"
         },
         {
-          "tool": "NumPy",
+          "item": "NumPy",
           "proficiency": "Proficient"
         },
         {
-          "tool": "JSON",
+          "item": "JSON",
           "proficiency": "Proficient"
         },
         {
-          "tool": "REST APIs",
+          "item": "REST APIs",
           "proficiency": "Proficient"
         },
         {
-          "tool": "Next.js",
+          "item": "Next.js",
           "proficiency": "Familiar"
         },
         {
-          "tool": "PyTorch",
+          "item": "PyTorch",
           "proficiency": "Familiar"
         },
         {
-          "tool": "Postgres",
+          "item": "Postgres",
           "proficiency": "Familiar"
         }
       ]
     }
-  },
+  ],
   "professional_experience": {
     "section_name": "Professional Experience",
     "data": [
