@@ -245,9 +245,15 @@
     "data": [
       {
         "name": "Query Optimization of Backward-Chaining Reasoning with Learned Heuristics",
-        "authors": "Schack, B., et al.",
+        "authors": [
+          "Ben Schack",
+          "Yifan Zhang",
+          "James Hoffmeister",
+          "Jeff Heflin"
+        ],
         "venue": "Proceedings of the Rule Challenge, Doctoral Consortium, Industry Track, and Networking Session 2024",
         "url": "https://ceur-ws.org/Vol-3816/paper21.pdf",
+        "proceedings": "CEUR Workshop Proceedings",
         "dates": {
           "type": "single",
           "start": "2024"
